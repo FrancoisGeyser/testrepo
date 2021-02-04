@@ -1,10 +1,10 @@
+import {DashboardHeader} from "../components/DashboardHeader";
 
 
 export default function Dashboard() {
   return (
     <div>
-     <p>Dashboard</p>
-      
+     <DashboardHeader/>
     </div>
   )
 }
